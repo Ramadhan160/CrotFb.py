@@ -16,4 +16,10 @@ $ pip install bs4
 
 $ pip install pycryptodome
 
-$ git clone 
+$ git clone https://github.com/Ramadhan160/CrotFb.py
+
+$ cd CrotFb.py
+
+$ git pull
+
+python CrotFb.py
