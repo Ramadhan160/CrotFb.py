@@ -20,6 +20,8 @@ $ git clone https://github.com/Ramadhan160/CrotFb.py
 
 $ cd CrotFb.py
 
+$ bash setup.sh
+
 $ git pull
 
-python CrotFb.py
+$ python CrotFb.py
