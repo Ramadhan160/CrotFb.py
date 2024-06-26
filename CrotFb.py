@@ -229,7 +229,7 @@ def Ricode_Terus(idf,aku_adalah_luciver_xploit_yang_ganteng,url):
 	global loop,ok,cp
 	rr = random.randint
 	Aing_Orang_Cilacap = random.choice(["id-ID,id;q=0.9","en-US,en;q=0.9","en-GB,en;q=0.9","bd-BD,bd;q=0.9"])
-	lucianaxd = random.choice(["/","\","•","/","\","•","/","\","•","/","\","•","/"])
+	lucianaxd = random.choice("Luciver✘","Xploit亗","Ganteng複","Bangetツ","Cilacap✘","RAL亗","Cyberツ","Team複","Indonesiaツ","BangLuci✘","OrangBaik亗","Tersakiti複","DihinaPericode✘"])
 	prog.update(des,description=f'            {lucianaxd} {P2}{(loop)}/{len(id)} OK:{H2}{(ok)} {P2}CP:{K2}{(cp)}')
 	prog.advance(des)
 	ua = random.choice(LuciverXprem)
