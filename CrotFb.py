@@ -54,6 +54,7 @@ from rich import pretty
 
 
 
+
 pretty.install()
 CON=sol()
 console = Console()
@@ -113,7 +114,6 @@ def ___Lucian_Putri_Adelia___():
 \x1b[1;92m          ╚█████╔╝██║░░██║╚█████╔╝░░░██║░░░
     \x1b[1;91m  •\x1b[1;93m•\x1b[1;92m•\x1b[1;92m ░╚════╝░╚═╝░░╚═╝░╚════╝░░░░╚═╝░░░\x1b[1;92m •\x1b[1;93m•\x1b[1;91m•
 """)
-
 
 
 def Dumping(idt,fields,cookie,token):
