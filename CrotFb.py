@@ -418,3 +418,13 @@ def Author():
 	Kembali()
 
 
+
+if __name__=='__main__':
+	try:os.mkdir('LUCI_OK')
+	except:pass
+	try:os.mkdir('LUCI_CP')
+	except:pass
+	try:os.system('clear')
+	except:pass 
+	Login()
+
