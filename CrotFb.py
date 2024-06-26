@@ -229,7 +229,7 @@ def Ricode_Terus(idf,aku_adalah_luciver_xploit_yang_ganteng,url):
 	global loop,ok,cp
 	rr = random.randint
 	Aing_Orang_Cilacap = random.choice(["id-ID,id;q=0.9","en-US,en;q=0.9","en-GB,en;q=0.9","bd-BD,bd;q=0.9"])
-	lucianaxd = random.choice("Luciver✘","Xploit亗","Ganteng複","Bangetツ","Cilacap✘","RAL亗","Cyberツ","Team複","Indonesiaツ","BangLuci✘","OrangBaik亗","Tersakiti複","DihinaPericode✘"])
+	lucianaxd = random.choice(["Luciver✘","Xploit亗","Ganteng複","Bangetツ","Cilacap✘","RAL亗","Cyberツ","Team複","Indonesiaツ","BangLuci✘","OrangBaik亗","Tersakiti複","DihinaPericode✘"])
 	prog.update(des,description=f'            {lucianaxd} {P2}{(loop)}/{len(id)} OK:{H2}{(ok)} {P2}CP:{K2}{(cp)}')
 	prog.advance(des)
 	ua = random.choice(LuciverXprem)
@@ -389,9 +389,9 @@ def Menu(my_name,my_id):
 
 	DedeLuci_Punya_Ayah_LuciverXploit(f'            {P2}WELCOME TO{H2} {my_name} {P2}IN TOOLS LUCIVERXPLOIT') 
 	DedeLuci_Punya_Ayah_LuciverXploit()
-	DedeLuci_Punya_Ayah_LuciverXploit(f'                         {H2}1. {P2}CRACK FACEBOOK PUBLIK') 
-	DedeLuci_Punya_Ayah_LuciverXploit(f'                         {H2}2. {P2}LAPOR KE AUTHOR') 
-	DedeLuci_Punya_Ayah_LuciverXploit(f'                         {H2}3. {M2}KELUAR') 
+	DedeLuci_Punya_Ayah_LuciverXploit(f'                         {B2}1. {P2}CROT FACEBOOK PUBLIK') 
+	DedeLuci_Punya_Ayah_LuciverXploit(f'                         {B2}2. {P2}LAPOR KE AUTHOR') 
+	DedeLuci_Punya_Ayah_LuciverXploit(f'                         {B2}3. {M2}KELUAR') 
 	_Luciver_memang_hebat_ = console.input(f'                           {P2}PILIH  : ')
 	if _Luciver_memang_hebat_ in ['01','1']: 
 		DedeLuci_Punya_Ayah_LuciverXploit(f'                   {P2}SILAHKAN MASUKAN {H2}TARGET {P2}ANDA') 
